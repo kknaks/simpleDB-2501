@@ -1,4 +1,4 @@
-package org.example;
+package com.ll.SimpleDb;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
